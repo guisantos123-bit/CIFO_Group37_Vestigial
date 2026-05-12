@@ -1,0 +1,14 @@
+GA2 Hyperparameters for Run Number: 4
+
+Ran GA with lower weight size and allowed for higher max area of triangles in order to allow for larger triangles and not to penalize triangle so much based on their overlapping.
+Population Size: 200
+Generations: 4000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 10
+Tournament Size: 4
+Save Every: 500
+Max Allowed Area: 1600
+Weight size: 0.000001
+Target Image: C:\CIfO\Project\data\girl_pearl_earing.png
+Final RMSE Score: 27.4037

@@ -1,0 +1,14 @@
+GA2 Hyperparameters for Run Number: 2
+
+Fitness and random_initial_representation functions were altered in order to initialize solutions with smaller initial triangles, so that the triangles can more easily fit the target image.
+Population Size: 200
+Generations: 2000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 3
+Tournament Size: 6
+Save Every: 500
+size_penalty = 0.000001
+max_allowed_area = 1500
+Final_Score: 27.74 RMSE
+Target Image: C:\CIfO\Project\data\girl_pearl_earing.png

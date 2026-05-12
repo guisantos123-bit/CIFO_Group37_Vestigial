@@ -1,0 +1,12 @@
+GA2 Hyperparameters for Run Number: 1
+
+Standard implementation fo the VermeerGA2 solution with randomly initialised triangles.
+Population Size: 200
+Generations: 2000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 3
+Tournament Size: 6
+Save Every: 500
+Final_Score: 33.54 RMSE
+Target Image: C:\CIfO\Project\data\girl_pearl_earing.png

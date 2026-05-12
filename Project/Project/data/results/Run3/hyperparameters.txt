@@ -1,0 +1,14 @@
+GA2 Hyperparameters for Run Number: 3
+
+Changed elitism_size and tournament_size to reduce selective pressure on tournament_size and maintain a higher elite size.
+Population Size: 200
+Generations: 4500
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 10
+Tournament Size: 4
+Save Every: 500
+size_penalty = 0.00001
+max_allowed_area = 1500
+Final_Score = 29.19 RMSE
+Target Image: C:\CIfO\Project\data\girl_pearl_earing.png
