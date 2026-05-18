@@ -1,0 +1,97 @@
+GA2 Hyperparameters for Run Number: 9
+
+Changes to crossover, include a two point cut for the selection of 'sections' of the representation to be inherited by parent1 whilst the other are inherited by parent2. Better results than single point mutation, however still worse than uniform.
+Population Size: 200
+Generations: 2000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 10
+Tournament Size: 3
+Save Every: 500
+Max Allowed Area: 1600
+Weight size: 0.000001
+Target Image: C:\CIfO\Project\data\girl_pearl_earing.png
+Fitness History: 
+Gen 0 | Fitness: 98.94
+Gen 50 | Fitness: 57.41
+Gen 100 | Fitness: 50.20
+Gen 150 | Fitness: 46.22
+Gen 200 | Fitness: 43.61
+Gen 250 | Fitness: 42.24
+Gen 300 | Fitness: 40.91
+Gen 350 | Fitness: 39.57
+Gen 400 | Fitness: 39.10
+Gen 450 | Fitness: 38.28
+Gen 500 | Fitness: 37.57
+Gen 550 | Fitness: 37.14
+Gen 600 | Fitness: 36.75
+Gen 650 | Fitness: 36.13
+Gen 700 | Fitness: 35.80
+Gen 750 | Fitness: 35.45
+Gen 800 | Fitness: 35.07
+Gen 850 | Fitness: 34.58
+Gen 900 | Fitness: 34.36
+Gen 950 | Fitness: 34.11
+Gen 1000 | Fitness: 33.89
+Gen 1050 | Fitness: 33.69
+Gen 1100 | Fitness: 33.51
+Gen 1150 | Fitness: 32.68
+Gen 1200 | Fitness: 32.16
+Gen 1250 | Fitness: 31.52
+Gen 1300 | Fitness: 31.27
+Gen 1350 | Fitness: 30.90
+Gen 1400 | Fitness: 30.65
+Gen 1450 | Fitness: 30.49
+Gen 1500 | Fitness: 30.39
+Gen 1550 | Fitness: 30.20
+Gen 1600 | Fitness: 30.07
+Gen 1650 | Fitness: 29.99
+Gen 1700 | Fitness: 29.94
+Gen 1750 | Fitness: 29.91
+Gen 1800 | Fitness: 29.85
+Gen 1850 | Fitness: 29.78
+Gen 1900 | Fitness: 29.73
+Gen 1950 | Fitness: 29.70
+Variance History: 
+Gen 0 | Variance: 6.36
+Gen 50 | Variance: 1.43
+Gen 100 | Variance: 1.37
+Gen 150 | Variance: 1.82
+Gen 200 | Variance: 1.12
+Gen 250 | Variance: 4.37
+Gen 300 | Variance: 1.98
+Gen 350 | Variance: 2.52
+Gen 400 | Variance: 2.23
+Gen 450 | Variance: 2.90
+Gen 500 | Variance: 6.25
+Gen 550 | Variance: 6.30
+Gen 600 | Variance: 3.44
+Gen 650 | Variance: 4.33
+Gen 700 | Variance: 2.32
+Gen 750 | Variance: 5.62
+Gen 800 | Variance: 2.53
+Gen 850 | Variance: 3.80
+Gen 900 | Variance: 2.28
+Gen 950 | Variance: 5.60
+Gen 1000 | Variance: 4.93
+Gen 1050 | Variance: 5.40
+Gen 1100 | Variance: 8.26
+Gen 1150 | Variance: 6.67
+Gen 1200 | Variance: 2.98
+Gen 1250 | Variance: 6.86
+Gen 1300 | Variance: 7.82
+Gen 1350 | Variance: 5.30
+Gen 1400 | Variance: 3.07
+Gen 1450 | Variance: 10.99
+Gen 1500 | Variance: 5.25
+Gen 1550 | Variance: 4.40
+Gen 1600 | Variance: 7.90
+Gen 1650 | Variance: 7.72
+Gen 1700 | Variance: 7.01
+Gen 1750 | Variance: 9.50
+Gen 1800 | Variance: 3.30
+Gen 1850 | Variance: 10.48
+Gen 1900 | Variance: 6.30
+Gen 1950 | Variance: 7.76
+Final RMSE Score: 29.62
+Final Variance: 5.85

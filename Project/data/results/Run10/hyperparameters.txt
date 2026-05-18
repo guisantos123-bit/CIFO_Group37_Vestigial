@@ -1,0 +1,57 @@
+GA2 Hyperparameters for Run Number: 10
+
+Implementation of GA with uniform crossover probability.
+
+Population Size: 200
+Generations: 2000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 10
+Tournament Size: 3
+Save Every: 500
+Max Allowed Area: 1600
+Weight size: 0.000001
+Target Image: C:\CIfO\Project\data\girl_pearl_earing.png
+Generation History: 
+Gen 0 | Fitness: 99.83 | Variance: 6.39
+Gen 50 | Fitness: 52.20 | Variance: 1.78
+Gen 100 | Fitness: 44.80 | Variance: 4.32
+Gen 150 | Fitness: 41.53 | Variance: 2.76
+Gen 200 | Fitness: 39.10 | Variance: 8.79
+Gen 250 | Fitness: 37.65 | Variance: 4.26
+Gen 300 | Fitness: 36.40 | Variance: 7.40
+Gen 350 | Fitness: 35.65 | Variance: 2.80
+Gen 400 | Fitness: 35.05 | Variance: 3.77
+Gen 450 | Fitness: 34.39 | Variance: 4.61
+Gen 500 | Fitness: 33.78 | Variance: 10.73
+Gen 550 | Fitness: 33.27 | Variance: 10.59
+Gen 600 | Fitness: 32.87 | Variance: 3.13
+Gen 650 | Fitness: 32.51 | Variance: 4.50
+Gen 700 | Fitness: 32.13 | Variance: 2.12
+Gen 750 | Fitness: 31.86 | Variance: 8.05
+Gen 800 | Fitness: 31.42 | Variance: 5.89
+Gen 850 | Fitness: 31.12 | Variance: 3.93
+Gen 900 | Fitness: 30.96 | Variance: 12.28
+Gen 950 | Fitness: 30.76 | Variance: 7.57
+Gen 1000 | Fitness: 30.65 | Variance: 5.56
+Gen 1050 | Fitness: 30.59 | Variance: 9.74
+Gen 1100 | Fitness: 30.42 | Variance: 8.41
+Gen 1150 | Fitness: 30.38 | Variance: 4.25
+Gen 1200 | Fitness: 30.31 | Variance: 7.08
+Gen 1250 | Fitness: 30.20 | Variance: 12.35
+Gen 1300 | Fitness: 30.15 | Variance: 4.65
+Gen 1350 | Fitness: 30.09 | Variance: 3.82
+Gen 1400 | Fitness: 29.93 | Variance: 5.75
+Gen 1450 | Fitness: 29.90 | Variance: 5.84
+Gen 1500 | Fitness: 29.83 | Variance: 7.69
+Gen 1550 | Fitness: 29.79 | Variance: 14.14
+Gen 1600 | Fitness: 29.67 | Variance: 13.21
+Gen 1650 | Fitness: 29.61 | Variance: 4.16
+Gen 1700 | Fitness: 29.46 | Variance: 6.81
+Gen 1750 | Fitness: 29.43 | Variance: 7.24
+Gen 1800 | Fitness: 29.39 | Variance: 8.63
+Gen 1850 | Fitness: 29.37 | Variance: 19.90
+Gen 1900 | Fitness: 29.35 | Variance: 3.47
+Gen 1950 | Fitness: 29.32 | Variance: 8.25
+Final RMSE Score: 29.31
+Final Variance: 2.66

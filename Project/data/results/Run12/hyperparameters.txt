@@ -1,0 +1,96 @@
+GA2 Hyperparameters for Run Number: 12
+
+For this run the max_size and size_penalties were removed in order to compare how changes to these affected the outcome of the image. 
+Scared that these would influence the solutions in a negative fashion. 
+
+Population Size: 200
+Generations: 4000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 10
+Tournament Size: 4
+Fitness Sharing: False
+Target Image: C:\CIfO\Project\data\girl_pearl_earing.png
+Generation History: 
+Gen 0 | Fitness: 97.66 | Variance: 8964.87
+Gen 50 | Fitness: 53.21 | Variance: 2021.40
+Gen 100 | Fitness: 47.49 | Variance: 1353.77
+Gen 150 | Fitness: 44.42 | Variance: 952.16
+Gen 200 | Fitness: 41.88 | Variance: 1081.76
+Gen 250 | Fitness: 39.81 | Variance: 1169.79
+Gen 300 | Fitness: 38.20 | Variance: 1266.41
+Gen 350 | Fitness: 36.51 | Variance: 1495.98
+Gen 400 | Fitness: 35.35 | Variance: 1107.62
+Gen 450 | Fitness: 34.42 | Variance: 1098.55
+Gen 500 | Fitness: 33.86 | Variance: 942.50
+Gen 550 | Fitness: 33.49 | Variance: 924.80
+Gen 600 | Fitness: 33.14 | Variance: 956.05
+Gen 650 | Fitness: 32.73 | Variance: 644.18
+Gen 700 | Fitness: 32.31 | Variance: 869.80
+Gen 750 | Fitness: 31.86 | Variance: 1061.51
+Gen 800 | Fitness: 31.35 | Variance: 698.29
+Gen 850 | Fitness: 31.12 | Variance: 1163.52
+Gen 900 | Fitness: 30.71 | Variance: 785.20
+Gen 950 | Fitness: 30.56 | Variance: 367.11
+Gen 1000 | Fitness: 30.43 | Variance: 884.94
+Gen 1050 | Fitness: 30.28 | Variance: 473.81
+Gen 1100 | Fitness: 30.04 | Variance: 743.86
+Gen 1150 | Fitness: 29.92 | Variance: 790.11
+Gen 1200 | Fitness: 29.85 | Variance: 645.88
+Gen 1250 | Fitness: 29.78 | Variance: 565.91
+Gen 1300 | Fitness: 29.70 | Variance: 464.56
+Gen 1350 | Fitness: 29.64 | Variance: 605.72
+Gen 1400 | Fitness: 29.61 | Variance: 448.25
+Gen 1450 | Fitness: 29.54 | Variance: 432.43
+Gen 1500 | Fitness: 29.44 | Variance: 762.67
+Gen 1550 | Fitness: 29.35 | Variance: 827.56
+Gen 1600 | Fitness: 29.30 | Variance: 694.04
+Gen 1650 | Fitness: 29.23 | Variance: 560.73
+Gen 1700 | Fitness: 28.97 | Variance: 500.31
+Gen 1750 | Fitness: 28.88 | Variance: 509.10
+Gen 1800 | Fitness: 28.70 | Variance: 997.75
+Gen 1850 | Fitness: 28.58 | Variance: 552.95
+Gen 1900 | Fitness: 28.40 | Variance: 521.55
+Gen 1950 | Fitness: 28.12 | Variance: 707.32
+Gen 2000 | Fitness: 28.04 | Variance: 461.56
+Gen 2050 | Fitness: 27.92 | Variance: 443.30
+Gen 2100 | Fitness: 27.87 | Variance: 636.49
+Gen 2150 | Fitness: 27.72 | Variance: 519.10
+Gen 2200 | Fitness: 27.61 | Variance: 461.44
+Gen 2250 | Fitness: 27.51 | Variance: 517.02
+Gen 2300 | Fitness: 27.50 | Variance: 486.22
+Gen 2350 | Fitness: 27.49 | Variance: 470.99
+Gen 2400 | Fitness: 27.47 | Variance: 428.95
+Gen 2450 | Fitness: 27.44 | Variance: 401.52
+Gen 2500 | Fitness: 27.43 | Variance: 408.56
+Gen 2550 | Fitness: 27.34 | Variance: 692.15
+Gen 2600 | Fitness: 27.33 | Variance: 396.00
+Gen 2650 | Fitness: 27.32 | Variance: 431.56
+Gen 2700 | Fitness: 27.24 | Variance: 493.39
+Gen 2750 | Fitness: 27.23 | Variance: 388.17
+Gen 2800 | Fitness: 27.19 | Variance: 336.96
+Gen 2850 | Fitness: 27.17 | Variance: 441.15
+Gen 2900 | Fitness: 27.15 | Variance: 475.24
+Gen 2950 | Fitness: 27.15 | Variance: 527.96
+Gen 3000 | Fitness: 27.13 | Variance: 379.87
+Gen 3050 | Fitness: 27.04 | Variance: 419.16
+Gen 3100 | Fitness: 26.95 | Variance: 456.73
+Gen 3150 | Fitness: 26.40 | Variance: 769.45
+Gen 3200 | Fitness: 26.31 | Variance: 649.84
+Gen 3250 | Fitness: 26.30 | Variance: 548.57
+Gen 3300 | Fitness: 26.29 | Variance: 460.13
+Gen 3350 | Fitness: 26.24 | Variance: 612.09
+Gen 3400 | Fitness: 26.22 | Variance: 435.86
+Gen 3450 | Fitness: 26.20 | Variance: 347.22
+Gen 3500 | Fitness: 26.20 | Variance: 356.96
+Gen 3550 | Fitness: 26.19 | Variance: 479.15
+Gen 3600 | Fitness: 26.16 | Variance: 463.82
+Gen 3650 | Fitness: 26.16 | Variance: 486.41
+Gen 3700 | Fitness: 26.16 | Variance: 459.00
+Gen 3750 | Fitness: 26.13 | Variance: 391.13
+Gen 3800 | Fitness: 26.12 | Variance: 363.39
+Gen 3850 | Fitness: 26.12 | Variance: 288.13
+Gen 3900 | Fitness: 26.11 | Variance: 345.31
+Gen 3950 | Fitness: 26.10 | Variance: 382.29
+Final RMSE Score: 26.10
+Final Variance: 382.95

@@ -1,0 +1,14 @@
+GA2 Hyperparameters for Run Number: 8
+
+GA implemented with random single point crossover, worse results than before.
+Population Size: 200
+Generations: 2000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 10
+Tournament Size: 3
+Save Every: 500
+Max Allowed Area: 1600
+Weight size: 0.00000
+Target Image: C:\CIfO\Project\data\girl_pearl_earing.png
+Final RMSE Score: 30.6007
