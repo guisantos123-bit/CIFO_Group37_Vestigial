@@ -1,0 +1,64 @@
+GA3 Hyperparameters for Control_Baseline | Run Number: 28
+
+Notes for this run: Standard benchmark run (Tournament + Uniform + Scramble). Fitness Sharing turned off for natural variation testing.
+
+--- VARIANT SETUP ---
+Selection Method: tournament
+Crossover Method: uniform
+Mutation Method: scramble
+
+--- BASE PARAMETERS ---
+Population Size: 150
+Generations: 2000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 10
+Tournament Size: 4
+Fitness Sharing: False
+Variance Threshold for Fitness Sharing: 550
+
+--- GENERATION HISTORY ---
+Gen 0 | Fitness: 98.51 | Variance: 8926.78
+Gen 50 | Fitness: 53.47 | Variance: 1547.36
+Gen 100 | Fitness: 45.25 | Variance: 450.42
+Gen 150 | Fitness: 43.30 | Variance: 2644.20
+Gen 200 | Fitness: 41.24 | Variance: 2408.45
+Gen 250 | Fitness: 39.94 | Variance: 2783.90
+Gen 300 | Fitness: 38.64 | Variance: 2343.60
+Gen 350 | Fitness: 37.69 | Variance: 2391.05
+Gen 400 | Fitness: 36.50 | Variance: 2509.69
+Gen 450 | Fitness: 35.41 | Variance: 2387.21
+Gen 500 | Fitness: 34.46 | Variance: 2323.51
+Gen 550 | Fitness: 33.87 | Variance: 2505.47
+Gen 600 | Fitness: 32.94 | Variance: 2296.32
+Gen 650 | Fitness: 31.90 | Variance: 2439.09
+Gen 700 | Fitness: 30.91 | Variance: 2365.86
+Gen 750 | Fitness: 30.69 | Variance: 2723.30
+Gen 800 | Fitness: 30.21 | Variance: 2823.04
+Gen 850 | Fitness: 30.17 | Variance: 2520.88
+Gen 900 | Fitness: 30.32 | Variance: 2273.80
+Gen 950 | Fitness: 30.01 | Variance: 2556.00
+Gen 1000 | Fitness: 29.68 | Variance: 3191.61
+Gen 1050 | Fitness: 29.31 | Variance: 2682.11
+Gen 1100 | Fitness: 29.71 | Variance: 2849.81
+Gen 1150 | Fitness: 29.27 | Variance: 2429.40
+Gen 1200 | Fitness: 29.27 | Variance: 2679.40
+Gen 1250 | Fitness: 29.06 | Variance: 2581.68
+Gen 1300 | Fitness: 28.82 | Variance: 2797.84
+Gen 1350 | Fitness: 28.90 | Variance: 2980.06
+Gen 1400 | Fitness: 28.76 | Variance: 2658.38
+Gen 1450 | Fitness: 28.73 | Variance: 2705.49
+Gen 1500 | Fitness: 28.82 | Variance: 2458.98
+Gen 1550 | Fitness: 28.60 | Variance: 2601.93
+Gen 1600 | Fitness: 28.36 | Variance: 2841.00
+Gen 1650 | Fitness: 28.47 | Variance: 3087.49
+Gen 1700 | Fitness: 28.44 | Variance: 2755.67
+Gen 1750 | Fitness: 28.30 | Variance: 2925.98
+Gen 1800 | Fitness: 28.31 | Variance: 2723.88
+Gen 1850 | Fitness: 28.17 | Variance: 2839.36
+Gen 1900 | Fitness: 27.88 | Variance: 2542.69
+Gen 1950 | Fitness: 27.73 | Variance: 2746.27
+
+--- FINAL RESULTS ---
+Final RMSE Score: 27.78
+Final Variance: 2424.22
