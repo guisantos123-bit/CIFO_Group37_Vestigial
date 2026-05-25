@@ -1,0 +1,54 @@
+Simulated Annealing Hyperparameters | Run Number: 27
+
+Notes: SA Optimization with 300.000 evaluations.
+
+Initial Temperature (C): 10.0
+Cooling Rate: 0.996
+Iterations at each Temp (L): 150
+Max Temperature Steps (max_iter): 2000
+Total Evaluations: 300000
+
+--- ITERATION HISTORY ---
+Iter 0 | Fitness: 107.90
+Iter 50 | Fitness: 81.97
+Iter 100 | Fitness: 73.75
+Iter 150 | Fitness: 73.75
+Iter 200 | Fitness: 73.75
+Iter 250 | Fitness: 73.75
+Iter 300 | Fitness: 73.75
+Iter 350 | Fitness: 73.75
+Iter 400 | Fitness: 73.75
+Iter 450 | Fitness: 69.71
+Iter 500 | Fitness: 69.38
+Iter 550 | Fitness: 69.38
+Iter 600 | Fitness: 69.25
+Iter 650 | Fitness: 60.14
+Iter 700 | Fitness: 60.14
+Iter 750 | Fitness: 58.18
+Iter 800 | Fitness: 58.18
+Iter 850 | Fitness: 54.97
+Iter 900 | Fitness: 50.68
+Iter 950 | Fitness: 46.40
+Iter 1000 | Fitness: 46.33
+Iter 1050 | Fitness: 44.44
+Iter 1100 | Fitness: 42.87
+Iter 1150 | Fitness: 42.67
+Iter 1200 | Fitness: 39.27
+Iter 1250 | Fitness: 37.14
+Iter 1300 | Fitness: 36.65
+Iter 1350 | Fitness: 36.14
+Iter 1400 | Fitness: 35.74
+Iter 1450 | Fitness: 35.35
+Iter 1500 | Fitness: 34.75
+Iter 1550 | Fitness: 34.61
+Iter 1600 | Fitness: 34.55
+Iter 1650 | Fitness: 34.43
+Iter 1700 | Fitness: 34.23
+Iter 1750 | Fitness: 34.09
+Iter 1800 | Fitness: 34.05
+Iter 1850 | Fitness: 33.87
+Iter 1900 | Fitness: 33.74
+Iter 1950 | Fitness: 33.50
+
+--- FINAL RESULTS ---
+Final RMSE Score: 33.46
