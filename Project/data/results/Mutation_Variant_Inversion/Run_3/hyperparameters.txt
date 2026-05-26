@@ -1,0 +1,64 @@
+GA3 Hyperparameters for Mutation_Variant_Inversion | Run Number: 3
+
+Notes for this run: Mutation Isolation: Inversion test to evaluate drastic space exploration jumps. Tournament Selection and Crossover Uniform.
+
+--- VARIANT SETUP ---
+Selection Method: tournament
+Crossover Method: uniform
+Mutation Method: inversion
+
+--- BASE PARAMETERS ---
+Population Size: 150
+Generations: 2000
+Crossover Probability (pc): 0.85
+Mutation Probability (pm): 0.03
+Elitism Size: 10
+Tournament Size: 4
+Fitness Sharing: False
+Variance Threshold for Fitness Sharing: 550
+
+--- GENERATION HISTORY ---
+Gen 0 | Fitness: 100.16 | Variance: 8914.89
+Gen 50 | Fitness: 51.55 | Variance: 1339.74
+Gen 100 | Fitness: 43.69 | Variance: 570.33
+Gen 150 | Fitness: 39.68 | Variance: 362.04
+Gen 200 | Fitness: 38.79 | Variance: 2190.83
+Gen 250 | Fitness: 37.82 | Variance: 2018.48
+Gen 300 | Fitness: 36.80 | Variance: 2239.81
+Gen 350 | Fitness: 35.76 | Variance: 2103.89
+Gen 400 | Fitness: 35.20 | Variance: 2112.95
+Gen 450 | Fitness: 34.72 | Variance: 1857.57
+Gen 500 | Fitness: 34.01 | Variance: 2120.41
+Gen 550 | Fitness: 33.52 | Variance: 2117.73
+Gen 600 | Fitness: 32.87 | Variance: 2072.57
+Gen 650 | Fitness: 32.63 | Variance: 1954.33
+Gen 700 | Fitness: 32.18 | Variance: 1953.94
+Gen 750 | Fitness: 32.13 | Variance: 2116.81
+Gen 800 | Fitness: 31.58 | Variance: 1938.86
+Gen 850 | Fitness: 31.08 | Variance: 2219.44
+Gen 900 | Fitness: 30.87 | Variance: 2084.97
+Gen 950 | Fitness: 30.64 | Variance: 2062.92
+Gen 1000 | Fitness: 30.23 | Variance: 2052.51
+Gen 1050 | Fitness: 30.11 | Variance: 2016.90
+Gen 1100 | Fitness: 30.11 | Variance: 2111.85
+Gen 1150 | Fitness: 29.88 | Variance: 1922.07
+Gen 1200 | Fitness: 29.81 | Variance: 1979.67
+Gen 1250 | Fitness: 29.81 | Variance: 2044.08
+Gen 1300 | Fitness: 29.81 | Variance: 2185.61
+Gen 1350 | Fitness: 29.33 | Variance: 2223.88
+Gen 1400 | Fitness: 29.01 | Variance: 1943.71
+Gen 1450 | Fitness: 28.76 | Variance: 1844.42
+Gen 1500 | Fitness: 28.65 | Variance: 1813.35
+Gen 1550 | Fitness: 28.57 | Variance: 1999.29
+Gen 1600 | Fitness: 28.47 | Variance: 1987.88
+Gen 1650 | Fitness: 28.19 | Variance: 1919.55
+Gen 1700 | Fitness: 28.19 | Variance: 1798.15
+Gen 1750 | Fitness: 28.19 | Variance: 1835.22
+Gen 1800 | Fitness: 27.86 | Variance: 2031.21
+Gen 1850 | Fitness: 27.86 | Variance: 1994.83
+Gen 1900 | Fitness: 27.86 | Variance: 1979.15
+Gen 1950 | Fitness: 27.69 | Variance: 1923.14
+
+--- FINAL RESULTS ---
+Final RMSE Score: 27.46
+Final Variance: 2125.21
