@@ -9,46 +9,46 @@ Max Temperature Steps (max_iter): 2000
 Total Evaluations: 300000
 
 --- ITERATION HISTORY ---
-Iter 0 | Fitness: 102.67
-Iter 50 | Fitness: 76.94
-Iter 100 | Fitness: 76.94
-Iter 150 | Fitness: 76.94
-Iter 200 | Fitness: 76.94
-Iter 250 | Fitness: 76.94
-Iter 300 | Fitness: 76.56
-Iter 350 | Fitness: 72.42
-Iter 400 | Fitness: 72.42
-Iter 450 | Fitness: 71.74
-Iter 500 | Fitness: 71.74
-Iter 550 | Fitness: 70.17
-Iter 600 | Fitness: 66.11
-Iter 650 | Fitness: 64.65
-Iter 700 | Fitness: 63.73
-Iter 750 | Fitness: 63.41
-Iter 800 | Fitness: 58.32
-Iter 850 | Fitness: 55.72
-Iter 900 | Fitness: 52.01
-Iter 950 | Fitness: 47.50
-Iter 1000 | Fitness: 47.50
-Iter 1050 | Fitness: 47.30
-Iter 1100 | Fitness: 46.88
-Iter 1150 | Fitness: 45.09
-Iter 1200 | Fitness: 44.69
-Iter 1250 | Fitness: 44.36
-Iter 1300 | Fitness: 43.36
-Iter 1350 | Fitness: 42.76
-Iter 1400 | Fitness: 42.26
-Iter 1450 | Fitness: 41.74
-Iter 1500 | Fitness: 41.49
-Iter 1550 | Fitness: 40.23
-Iter 1600 | Fitness: 39.01
-Iter 1650 | Fitness: 38.42
-Iter 1700 | Fitness: 37.99
-Iter 1750 | Fitness: 37.49
-Iter 1800 | Fitness: 37.25
-Iter 1850 | Fitness: 37.01
-Iter 1900 | Fitness: 36.79
-Iter 1950 | Fitness: 36.65
+Iter 0 | Fitness: 107.71
+Iter 50 | Fitness: 75.50
+Iter 100 | Fitness: 75.50
+Iter 150 | Fitness: 75.50
+Iter 200 | Fitness: 75.50
+Iter 250 | Fitness: 75.50
+Iter 300 | Fitness: 73.20
+Iter 350 | Fitness: 73.20
+Iter 400 | Fitness: 73.20
+Iter 450 | Fitness: 71.14
+Iter 500 | Fitness: 68.57
+Iter 550 | Fitness: 68.57
+Iter 600 | Fitness: 67.04
+Iter 650 | Fitness: 61.64
+Iter 700 | Fitness: 61.64
+Iter 750 | Fitness: 58.80
+Iter 800 | Fitness: 55.76
+Iter 850 | Fitness: 55.13
+Iter 900 | Fitness: 55.13
+Iter 950 | Fitness: 52.13
+Iter 1000 | Fitness: 49.04
+Iter 1050 | Fitness: 47.11
+Iter 1100 | Fitness: 46.01
+Iter 1150 | Fitness: 45.30
+Iter 1200 | Fitness: 44.10
+Iter 1250 | Fitness: 43.23
+Iter 1300 | Fitness: 43.17
+Iter 1350 | Fitness: 41.72
+Iter 1400 | Fitness: 41.06
+Iter 1450 | Fitness: 41.06
+Iter 1500 | Fitness: 40.62
+Iter 1550 | Fitness: 39.80
+Iter 1600 | Fitness: 39.56
+Iter 1650 | Fitness: 39.35
+Iter 1700 | Fitness: 38.97
+Iter 1750 | Fitness: 38.81
+Iter 1800 | Fitness: 38.42
+Iter 1850 | Fitness: 38.32
+Iter 1900 | Fitness: 38.11
+Iter 1950 | Fitness: 38.05
 
 --- FINAL RESULTS ---
-Final RMSE Score: 36.52
+Final RMSE Score: 38.01
